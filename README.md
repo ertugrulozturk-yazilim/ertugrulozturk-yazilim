@@ -57,10 +57,10 @@ Google Colab · SQL Server Management Studio
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| Intern Task Tracking System | A personnel and task management application with task status tracking and soft deletion. | C#, ASP.NET Core Web API, SQL Server, Azure SQL |
-| Salon Appointment System | A web application for browsing salon services and managing appointments. | C#, Blazor, .NET |
-| Transportation Route Planner | A route selection project using weighted criteria, Softmax and cost-benefit analysis. | Java |
-| Machine Learning Coursework | Data cleaning, preprocessing and classification exercises. | Python, pandas, scikit-learn |
+| [Intern Task Tracking System](https://github.com/ertugrulozturk-yazilim/Zorunlu-Yaz-Staj) | A personnel and task tracking application with task status management and soft deletion. | C#, ASP.NET Core Web API, Azure SQL |
+| [Dormitory Management System](https://github.com/ertugrulozturk-yazilim/Yurt-yonetim-sistemi) | A dormitory management application developed with Java. | Java |
+| [Production Planning](https://github.com/ertugrulozturk-yazilim/UretimAnalizi) | A production planning application using dynamic programming. | Java |
+| [Transportation Route Planner](https://github.com/ertugrulozturk-yazilim/Algoritma-Analiz-Odev) | A route evaluation project using Softmax, weighted criteria and cost-benefit analysis. | Java |
 
 ### Academic Background
 
